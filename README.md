@@ -1,3 +1,7 @@
+## 🚀 Get Started
+
+Use this [Blank Mock File Template](./templates/blank-mockfile_template.md) to begin creating and sharing reusable prompts.
+
 # mock-file-method
 A public library of reusable AI prompt templates (mock files) for teams and thinkers.
 # 🧠 Mock File Method  
