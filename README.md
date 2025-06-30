@@ -1,5 +1,6 @@
-## 🚀 Get Started
+![Mock File Method – Banner](https://img.shields.io/badge/🚀_Start_Here-Mock_File_Template-blue)
 
+## 🚀 Get Started  
 Use this [Blank Mock File Template](./templates/blank-mockfile_template.md) to begin creating and sharing reusable prompts.
 
 # mock-file-method
