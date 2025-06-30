@@ -25,6 +25,8 @@ This repository is a **living library of AI prompt mock files**—lightweight `.
 
 It helps individuals and teams **reuse successful AI interactions** without relying on long, fragile prompt strings.
 
+[![Accepting Mock Files Now](https://img.shields.io/badge/✅_Accepting-Mock_Files_Now-brightgreen)](https://github.com/gjavier21/mock-file-method/issues)
+
 ---
 
 ## 🎯 Why Use Mock Files?
