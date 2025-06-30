@@ -2,7 +2,7 @@
 A public library of reusable AI prompt templates (mock files) for teams and thinkers.
 # 🧠 Mock File Method  
 **A public library of reusable AI prompt templates (mock files) for teams and thinkers**  
-Co-authored by: Gerardo | Tier IV Architect
+Co-authored by: Gerardo J. Lebron Morales | Tier IV Architect
 
 ---
 
